@@ -1,0 +1,9 @@
+# Credenciais reais locais (nunca enviar para o GitHub)
+secrets.h
+**/secrets.h
+
+# Arquivos temporários do sistema / editores
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
