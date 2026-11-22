@@ -1,0 +1,3 @@
+amostra,temp_dht22_c,temp_ref_c,erro_temp_c,umid_dht22_pct,umid_ref_pct,erro_umid_pct
+1,24.10,24.00,0.10,55.20,55.00,0.20
+2,24.20,24.00,0.20,55.00,55.10,-0.10
